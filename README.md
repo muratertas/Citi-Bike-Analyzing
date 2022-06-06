@@ -1,4 +1,3 @@
-# 381E-Final-Project
 # Citi Bike Usage in JC
 
 * Jersey City’s bike share system, Citi Bike is the largest system in the USA and an essential part of the city’s transportation network.
